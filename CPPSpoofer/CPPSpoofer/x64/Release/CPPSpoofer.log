@@ -1,0 +1,7 @@
+﻿  CPPSpoofer.cpp
+C:\Users\Ethan\Downloads\CPPSpoofer\CPPSpoofer\CPPSpoofer.cpp(38,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 283 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CPPSpoofer.vcxproj -> C:\Users\Ethan\Downloads\CPPSpoofer\x64\Release\CPPSpoofer.exe

@@ -1,0 +1,3 @@
+﻿  CPPSpoofer.cpp
+C:\Users\Ethan\Downloads\CPPSpoofer\CPPSpoofer\CPPSpoofer.cpp(38,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CPPSpoofer.vcxproj -> C:\Users\Ethan\Downloads\CPPSpoofer\x64\Debug\CPPSpoofer.exe
